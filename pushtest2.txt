@@ -1,0 +1,1 @@
+Working ファイル全てを Staging へ ファイル登録( add ) 実行したんじゃい！
